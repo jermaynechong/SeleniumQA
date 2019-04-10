@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="GovTechSelenium.GovTechSelenium.BGPRunner">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- GovTechSelenium.GovTechSelenium.BGPRunner -->
+      <class name="GovTechSelenium.GovTechSelenium.Form">
+        <methods>
+          <include name="proposal"/>
+          <include name="cost"/>
+          <include name="review"/>
+          <include name="businessImpact"/>
+        </methods>
+      </class> <!-- GovTechSelenium.GovTechSelenium.Form -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="116431" started-at="2019-04-10T04:24:05Z" finished-at="2019-04-10T04:26:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="116431" started-at="2019-04-10T04:24:05Z" finished-at="2019-04-10T04:26:01Z">
+      <class name="GovTechSelenium.GovTechSelenium.BGPRunner">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:GovTechSelenium.GovTechSelenium.BGPRunner@754ba872]" name="setUp" is-config="true" duration-ms="9755" started-at="2019-04-10T12:23:55Z" finished-at="2019-04-10T12:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:GovTechSelenium.GovTechSelenium.BGPRunner@754ba872]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-04-10T12:26:01Z" finished-at="2019-04-10T12:26:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- GovTechSelenium.GovTechSelenium.BGPRunner -->
+      <class name="GovTechSelenium.GovTechSelenium.Form">
+        <test-method status="PASS" signature="grant()[pri:0, instance:GovTechSelenium.GovTechSelenium.Form@f6c48ac]" name="grant" duration-ms="7496" started-at="2019-04-10T12:24:17Z" finished-at="2019-04-10T12:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grant -->
+        <test-method status="PASS" signature="eligibility()[pri:0, instance:GovTechSelenium.GovTechSelenium.Form@f6c48ac]" name="eligibility" duration-ms="30027" started-at="2019-04-10T12:24:24Z" finished-at="2019-04-10T12:24:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eligibility -->
+        <test-method status="PASS" signature="form()[pri:0, instance:GovTechSelenium.GovTechSelenium.Form@f6c48ac]" name="form" duration-ms="3264" started-at="2019-04-10T12:24:54Z" finished-at="2019-04-10T12:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- form -->
+        <test-method status="PASS" signature="proposal()[pri:0, instance:GovTechSelenium.GovTechSelenium.Form@f6c48ac]" name="proposal" duration-ms="34589" started-at="2019-04-10T12:24:57Z" finished-at="2019-04-10T12:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proposal -->
+        <test-method status="PASS" signature="cost()[pri:0, instance:GovTechSelenium.GovTechSelenium.Form@f6c48ac]" name="cost" duration-ms="23079" started-at="2019-04-10T12:25:32Z" finished-at="2019-04-10T12:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cost -->
+        <test-method status="PASS" signature="businessImpact()[pri:0, instance:GovTechSelenium.GovTechSelenium.Form@f6c48ac]" name="businessImpact" duration-ms="4461" started-at="2019-04-10T12:25:55Z" finished-at="2019-04-10T12:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- businessImpact -->
+        <test-method status="PASS" signature="review()[pri:0, instance:GovTechSelenium.GovTechSelenium.Form@f6c48ac]" name="review" duration-ms="1663" started-at="2019-04-10T12:26:00Z" finished-at="2019-04-10T12:26:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- review -->
+      </class> <!-- GovTechSelenium.GovTechSelenium.Form -->
+      <class name="GovTechSelenium.GovTechSelenium.BGPLogin">
+        <test-method status="PASS" signature="login()[pri:0, instance:GovTechSelenium.GovTechSelenium.BGPLogin@13deb50e]" name="login" duration-ms="11825" started-at="2019-04-10T12:24:05Z" finished-at="2019-04-10T12:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- GovTechSelenium.GovTechSelenium.BGPLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
